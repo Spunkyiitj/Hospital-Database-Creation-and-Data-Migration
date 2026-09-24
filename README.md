@@ -2,6 +2,13 @@
 🏥 Hospital Database Creation & Data Migration  
 📌 SQL | MySQL | Data Cleaning | Database Design
 
+<p align="center">
+  <img src="images/hospital-database-schema.png" 
+       alt="Hospital Database EER Diagram" 
+       width="900">
+</p>
+
+
 ## 📊 Project Summary
 
 Designed and implemented a normalized relational database system by migrating unstructured Excel data into MySQL, improving data integrity, reducing redundancy, and enabling efficient reporting and analysis.
@@ -166,3 +173,5 @@ Migrating messy Excel data into structured systems
 Implementing role-based data access
 
 Writing analytical stored procedures
+
+
