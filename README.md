@@ -3,7 +3,7 @@
 📌 SQL | MySQL | Data Cleaning | Database Design
 
 <p align="center">
-  <img src="images/hospital-database-schema.png" 
+  <img src="hospital-database-schema.png" 
        alt="Hospital Database EER Diagram" 
        width="900">
 </p>
